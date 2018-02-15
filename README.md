@@ -18,7 +18,13 @@ This program requires the [pygame library](http://www.pygame.org/). You may inst
 python3 -m pip install pygame --user
 ```
 
-Then run the Snake program using Python, e.g.
+Clone this repository to your local disk using Git, e.g.
+```
+git clone https://github.com/talent-campus/snake-game.git
+cd snake-game
+```
+
+Then run the Snake program from your terminal using Python, e.g.
 ```
 python3 snake.py
 ```
